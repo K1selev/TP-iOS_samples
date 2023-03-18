@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0119437B-3B06-4C34-8685-53F87E42A764"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "2AE0CCA1-5FB8-483A-B064-5711B2A095BA"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AuthTest/ProductsList/ProductsListInteractor.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "22"
+            endingLineNumber = "22"
+            landmarkName = "obtainProducts()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "2AE0CCA1-5FB8-483A-B064-5711B2A095BA - 505bfff1c2d9449"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthTest.ProductCollectionInteractor.obtainProducts() -&gt; ()"
+                  moduleName = "AuthTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e.korotkiy/Downloads/AuthTest/AuthTest/ProductsList/ProductsListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "36">
+               </Location>
+               <Location
+                  uuid = "2AE0CCA1-5FB8-483A-B064-5711B2A095BA - 505bfff1c2d9449"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AuthTest.ProductCollectionInteractor.obtainProducts() -&gt; ()"
+                  moduleName = "AuthTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e.korotkiy/Downloads/AuthTest/AuthTest/ProductsList/ProductsListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "140">
+               </Location>
+               <Location
+                  uuid = "2AE0CCA1-5FB8-483A-B064-5711B2A095BA - 4c861c7a7de02a9d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Array&lt;AuthTest.Product&gt;) -&gt; () in AuthTest.ProductCollectionInteractor.obtainProducts() -&gt; ()"
+                  moduleName = "AuthTest"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/e.korotkiy/Downloads/AuthTest/AuthTest/ProductsList/ProductsListInteractor.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "36">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "85982C20-1BF7-4883-925B-6C56166384E4"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AuthTest/Product/Managers/ImageManager/FileManagerImageCache.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "45"
+            endingLineNumber = "45"
+            landmarkName = "obtain(with:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
